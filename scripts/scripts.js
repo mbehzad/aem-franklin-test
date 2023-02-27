@@ -122,3 +122,5 @@ async function loadPage() {
 }
 
 loadPage();
+
+console.log('4');
